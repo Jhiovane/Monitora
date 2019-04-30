@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SistMonit</string>
+    <string name="botao_painel">Painel interativo</string>
+    <string name="botao_falhas">Código de Falhas</string>
+    <string name="botao_dados">Dados em tempo real</string>
+    <string name="botao_relatorio">Relatório</string>
+    <string name="status">Status:</string>
+    <string name="conectar">Conectar</string>
+    <string name="conexao">Desconetado</string>
+    <string name="botao_login">Login</string>
+    <string name="menuItemSalvar">Salvar</string>
+    <string name="menuItemExcluir">Excluir</string>
+    <string name="botao_menu">Menu</string>
+
 </resources>
