@@ -6,7 +6,7 @@
     <string name="botao_relatorio">Relatório</string>
     <string name="status">Status:</string>
     <string name="conectar">Conectar</string>
-    <string name="conexao">Desconetado</string>
+    <string name="conexao">Desconectado</string>
     <string name="botao_login">Login</string>
     <string name="menuItemSalvar">Salvar</string>
     <string name="menuItemExcluir">Excluir</string>
